@@ -1,7 +1,7 @@
 // src/components/NavbarComponent.js
 
 import { Navbar, Nav, Container, Row, Col, Dropdown } from "react-bootstrap";
-import { Link, NavLink } from "react-router-dom";
+import { NavLink } from "react-router-dom";
 import "./NavbarComponent.css"; // Import the CSS file
 import logo from "../assets/logos/logo-monitoraps-parceiros.svg"; // Import the logo
 

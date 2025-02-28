@@ -1,6 +1,5 @@
 // src/pages/Home.js
 
-import React from "react";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 // import { Chart, registerables } from "chart.js";
 import * as Assets from "../assets/index";
