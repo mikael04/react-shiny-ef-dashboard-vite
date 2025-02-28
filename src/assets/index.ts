@@ -1,0 +1,12 @@
+export { default as imgEfProcIvs } from "../assets/graphs/fig_efi_processos_ivs.png";
+export { default as imgProcPortePop } from "../assets/graphs/fig_efi_processos_porte_pop.png";
+export { default as imgEfResIvs } from "../assets/graphs/fig_efi_resultados_ivs.png";
+export { default as imgResPortePop } from "../assets/graphs/fig_efi_resultados_porte_pop.png";
+export { default as imgEvDesp } from "../assets/graphs/fig_evolucao_desp.png";
+export { default as imgEvPrev } from "../assets/graphs/fig_evolucao_previne.png";
+export { default as imgCSAPMort } from "../assets/graphs/fig_csap_mortalidade.png";
+export { default as imgCSAPInternacoes } from "../assets/graphs/fig_csap_internacoes.png";
+import graphIcon from "../assets/images/graph-icon.svg";
+export { graphIcon };
+import footerLogo from "../assets/logos/logo-monitoraps-parceiros.svg";
+export { footerLogo };
