@@ -9,8 +9,8 @@ const Dashboard = () => {
       <div className="iframe-container flex-grow-1">
         <iframe
           className="iframe-sizing"
-          // src="https://monitoraps.org/shiny.ef.aps.dashboard/"  // Replace with your application's URL
-          src="http://127.0.0.1:4000/" // Replace with your application's URL
+          src="https://monitoraps.org/shiny.ef.aps.dashboard/" // Replace with your application's URL
+          // src="http://127.0.0.1:4000/" // Replace with your application's URL
           title="Shiny Dashboard"
         ></iframe>
       </div>
